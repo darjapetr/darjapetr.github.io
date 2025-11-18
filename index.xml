@@ -6,10 +6,17 @@
     <description>Recent content on My Hugo Site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 12:52:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 19:38:31 +0200</lastBuildDate>
     <atom:link href="https://darjapetr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First_post</title>
+      <title>Second Page</title>
+      <link>https://darjapetr.github.io/second_page/</link>
+      <pubDate>Tue, 18 Nov 2025 19:38:31 +0200</pubDate>
+      <guid>https://darjapetr.github.io/second_page/</guid>
+      <description>&lt;p&gt;This page was created to demonstrate the menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
       <link>https://darjapetr.github.io/posts/first_post/</link>
       <pubDate>Tue, 18 Nov 2025 12:52:15 +0200</pubDate>
       <guid>https://darjapetr.github.io/posts/first_post/</guid>
