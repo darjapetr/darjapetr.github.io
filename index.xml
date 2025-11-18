@@ -9,11 +9,24 @@
     <lastBuildDate>Tue, 18 Nov 2025 19:38:31 +0200</lastBuildDate>
     <atom:link href="https://darjapetr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Page</title>
+      <title>About</title>
       <link>https://darjapetr.github.io/second_page/</link>
       <pubDate>Tue, 18 Nov 2025 19:38:31 +0200</pubDate>
       <guid>https://darjapetr.github.io/second_page/</guid>
-      <description>&lt;p&gt;This page was created to demonstrate the menu.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This page was created to demonstrate the menu.&lt;/p&gt;
+&lt;p&gt;Menu was created by adding this code to the .toml file:
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  [[&lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;identifier&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;about&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;About&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/second_page/&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  [[&lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;identifier&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;posts&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Posts&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
